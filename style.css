@@ -52,6 +52,11 @@ a {
     max-width: 450px;
 }
 
+.header_subtext {
+    font-size: 18px;
+    color: rgba(250, 235, 215, 0.836);
+}
+
 button {
     background: rgb(247, 172, 144);
     border-radius: 15px;
