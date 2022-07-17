@@ -59,8 +59,8 @@ a {
 
 button {
     background: rgb(247, 172, 144);
-    border-radius: 15px;
-    padding: 8px;
+    border-radius: 10px;
+    padding: 15px;
 }
 
 .button1:hover,.button2:hover {
